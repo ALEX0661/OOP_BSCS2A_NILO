@@ -1,7 +1,7 @@
 <?php
 
 class Vehicle{
-  public static $wheel = 4;
+  public $wheel = 4;
 }
 
 class Bus extends Vehicle {
